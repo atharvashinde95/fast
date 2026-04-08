@@ -1,0 +1,8 @@
+# Verified latest stable versions — April 2025
+langgraph>=1.1.6
+langchain>=1.2.15
+langchain-openai>=1.1.10       # replaces langchain-anthropic — you use OpenAI-compat endpoint
+langchain-core>=1.2.24
+pydantic>=2.0.0
+python-dotenv>=1.0.0
+openai>=1.0.0                  # required by langchain-openai under the hood
